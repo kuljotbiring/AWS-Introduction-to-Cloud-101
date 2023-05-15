@@ -69,3 +69,10 @@ I'm a Computer Science student at Oregon State University
 * Uploaded content to my bucket
 * Enabled access to the bucket objects
 * Updated the website
+
+
+
+![aws-educate-introduction-to-cloud-101](https://github.com/kuljotbiring/AWS-Introduction-to-Cloud-101/assets/34665034/bde66a0f-c461-4afd-b63d-d47db73eb6a8)
+
+
+

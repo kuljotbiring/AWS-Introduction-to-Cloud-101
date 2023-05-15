@@ -8,7 +8,7 @@ AWS Educate Labs
 
 ## Authors
 
-- [@kuljotbiring](https://www.github.com/kuljotbiring)
+- [@Kuljot Biring](https://www.github.com/kuljotbiring)
 
 
 ## 💻 About Me

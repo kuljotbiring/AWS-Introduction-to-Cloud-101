@@ -1,6 +1,12 @@
 
 # ☁️ Introduction to Cloud 101
 
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
+
 AWS Educate Labs
 
 [Cloud Computing 101 Certification](https://www.credly.com/badges/024104b0-c641-4186-a7c2-fccb97fc8bbf/public_url)
